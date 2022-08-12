@@ -1,0 +1,24 @@
+{
+  "name": "thedataplaybook.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalvesbatista/thedataplaybook.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroalvesbatista/thedataplaybook.github.io/issues"
+  },
+  "homepage": "https://github.com/pedroalvesbatista/thedataplaybook.github.io#readme",
+  "dependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.9.7"
+  }
+}
